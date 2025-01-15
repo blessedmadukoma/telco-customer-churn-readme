@@ -1,6 +1,6 @@
 # 📊 Telco Customer Churn Prediction & Segmentation Analysis
 
-**Note:** The code repository is available on request.
+#### **Note:** The code repository is available on request.
 
 ## Overview
 A data-driven solution that combines machine learning and business analytics to help telecommunication companies reduce customer churn and optimize retention strategies. This project leverages both supervised and unsupervised learning techniques to identify at-risk customers and develop targeted retention strategies.
